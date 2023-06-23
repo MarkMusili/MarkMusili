@@ -1,10 +1,6 @@
-<img src="https://i.pinimg.com/originals/9e/4c/54/9e4c5447abdeb94e87507ec8bd95d6ff.gif" alt="MasterHead" width="800">
-
 
 <h1 align="center">Hi 👋, I'm Mark Musili</h1>
 <h3 align="center">A passionate Software engineer burgeoning.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markmusili" alt="markmusili" /></a> </p>
 
