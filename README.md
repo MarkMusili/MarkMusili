@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mark Musili</h1>
 <h3 align="center">A burgeoning Software Engineer</h3>
 
-<div align="right">
-  <img src="https://profile-counter.glitch.me/MarkMusili/count.svg?"  />
-</div>
 
 * 🌍  I'm based in Kenya
 * ✉️  You can contact me at [musiliyrn@gmail.com](mailto:musiliyrn@gmail.com)
