@@ -1,27 +1,41 @@
-<h1 align="center">Hi 👋, I'm Mark Musili</h1>
-<h3 align="center">A burgeoning Software Engineer</h3>
+<h1 align="Left">Mark Musili</h1>
 
-* 🌍  I'm based in Kenya
-* ✉️  You can contact me at [musiliyrn@gmail.com](mailto:musiliyrn@gmail.com)
-* 🧠  I'm currently learning Software Engineering from ALX Africa
-* 🤝  I'm open to collaborating on diverse coding projects that leverage my current skills
+* 👾 Im a burgeoning Software Engineer</h3>
+* 💡 I'm passionate about coming up with solutions for complex problems.
+* 🧠 I'm currently learning Software Engineering from ALX Africa and also doing personal studies as I aim to become a fullstack developer.
+* 🤝 I'm open to collaborating on diverse coding projects that leverage my current skills and also learn from others.
 
-<b>Skills<b>
+# Skills
+## FrontEnd skills/Journey
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ruby-colored.svg" width="36" height="36" alt="Ruby" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,figma)](https://skillicons.dev)
 
-<b>Socials</b>
+## Backend skills/Journey
 
-<p align="left"><a href="https://www.linkedin.com/in/MarkMusili" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/musiliyrn" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+<b>Programming languages</b>
 
-<b>My GitHub Stats</b>
+[![My Skills](https://skillicons.dev/icons?i=py,nodejs)](https://skillicons.dev)
 
-<div align=center>
-  <a href="http://www.github.com/MarkMusili"><img src="https://github-readme-stats.vercel.app/api?username=MarkMusili&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="MarkMusili's GitHub stats" /></a>
-</div>
+<b>Database Management</b>
 
-<div align=center>
-  <a href="https://github.com/MarkMusili" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarkMusili&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+
+<b>Web server</b>
+
+[![My Skills](https://skillicons.dev/icons?i=nginx)](https://skillicons.dev)
+
+## DevOps skills/Journey
+
+[![My Skills](https://skillicons.dev/icons?i=bash,mysql,docker,git,github,regex)](https://skillicons.dev)
+
+## Environments
+
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode)](https://skillicons.dev)
+
+# Socials
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/musiliyrn) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/MarkMusili")
+
+
+# My GitHub Stats
+
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarkMusili"/> <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMusili&layout=compact&langs_count=8&card_width=320" />
