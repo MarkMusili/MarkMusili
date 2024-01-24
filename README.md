@@ -72,12 +72,19 @@
     <img title=VisualCodeStudio src="https://skillicons.dev/icons?i=vscode">
     <img title=Vim src="https://skillicons.dev/icons?i=vim">
   </p>
+</details>
 
 # Socials
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/channels/@me) [![My Skills](https://skillicons.dev/icons?i=twitter)](https://www.x.com/musiliyrn) [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/MarkMusili")
+<details>
+  <summary>Social links</summary>
+  <p>
+    <img title=discord src="https://skillicons.dev/icons?i=discord">
+    <img title=Twitter src="https://skillicons.dev/icons?i=twitter">
+    <img title=LinkedIn src="https://skillicons.dev/icons?i=linkedin">
+  </p>
+</details>
 
 # My GitHub Stats
-
 <p>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=MarkMusili&theme=dark"/>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MarkMusili&layout=compact&langs_count=8&card_width=320&theme=dark" />
