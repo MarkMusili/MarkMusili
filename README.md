@@ -36,13 +36,17 @@
     <img title=Python src="https://skillicons.dev/icons?i=py">
     <img title=Flask src="https://skillicons.dev/icons?i=flask">
     <img title=Node.js src="https://skillicons.dev/icons?i=nodejs">
+    <img title=Express src="https://skillicons.dev/icons?i=express">
   </p>
 </details>
 
 <details>
+
   <summary>Database Management</summary>
   <p>
     <img title=MySQL src="https://skillicons.dev/icons?i=mysql">
+    <img title=Redis src="https://skillicons.dev/icons?i=redis">
+    <img title=MongoDB src="https://skillicons.dev/icons?i=mongo">
   </p>
 </details>
 
